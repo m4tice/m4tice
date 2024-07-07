@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @m4tice and my real name is Nguyen Duc Tuan
-- 👀 I’m interested in Software Engineering, Backend development and AI fields
-- 🌱 I’m currently learning more about Software Engineering in general
+- 👋 Hi, I’m @m4tice and but you can call me Tuan.
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m currently learning more about Software Engineering.
 - 💞️ I’m looking to collaborate on SW Engineering and Web development projects
 - 📫 How to reach me ... you can't...
 
