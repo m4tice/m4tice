@@ -1,4 +1,4 @@
-- 👋 The name's Tuan, Tuan Nguyen - aliases: m4tice, dev1ce.
+- 👋 The name's Tuan, Tuan Nguyen - *aliases:* m4tice, dev1ce.
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning more about Software Engineering.
 - 💞️ I’m looking to collaborate on SW Engineering and Web development projects
